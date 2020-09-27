@@ -1,0 +1,1216 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/1ff74dfe-2060-55bd-977b-2466a722a10c",
+            "url": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
+            "id": 100000007350460,
+            "asset_id": 100000007350460,
+            "source": "New York Times",
+            "published_date": "2020-09-19",
+            "updated": "2020-09-21 00:20:26",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Voting and Voters;Demonstrations, Protests and Riots;Presidential Election of 2020;United States Politics and Government;Trump, Donald J;Fairfax County (Va)",
+            "column": null,
+            "byline": "By Nick Corasaniti and Stephanie Saul",
+            "type": "Article",
+            "title": "Trump Supporters Disrupt Early Voting in Virginia",
+            "abstract": "A group waving Trump flags and chanting \u201cfour more years\u201d created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated.",
+            "des_facet": [
+                "Voting and Voters",
+                "Demonstrations, Protests and Riots",
+                "Presidential Election of 2020",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Fairfax County (Va)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Supporters of President Trump gathered outside the Fairfax County Government Center with flags and banners, chanting near residents who were waiting in line for early voting.",
+                    "copyright": "Kenny Holston for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/merlin_177279930_dd956422-ee1e-48cc-ae77-5b39e7d4784e-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/merlin_177279930_dd956422-ee1e-48cc-ae77-5b39e7d4784e-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/2065d8c7-e3a9-5c06-ac1f-dfa3bad6be9b",
+            "url": "https://www.nytimes.com/2020/09/25/us/politics/amy-coney-barrett-supreme-court.html",
+            "id": 100000007353829,
+            "asset_id": 100000007353829,
+            "source": "New York Times",
+            "published_date": "2020-09-25",
+            "updated": "2020-09-26 13:19:01",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Appointments and Executive Changes;Presidential Election of 2020;United States Politics and Government;Trump, Donald J;Barrett, Amy Coney;Ginsburg, Ruth Bader;Supreme Court (US);Senate",
+            "column": null,
+            "byline": "By Peter Baker and Maggie Haberman",
+            "type": "Article",
+            "title": "Trump Selects Amy Coney Barrett to Fill Ginsburg\u2019s Seat on the Supreme Court",
+            "abstract": "The president\u2019s nomination of Judge Barrett, a favorite of conservatives, to replace Justice Ruth Bader Ginsburg, will kick off a furious and unprecedented scramble to confirm her in the Senate before Election Day.",
+            "des_facet": [
+                "Appointments and Executive Changes",
+                "Presidential Election of 2020",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Supreme Court (US)",
+                "Senate"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Barrett, Amy Coney",
+                "Ginsburg, Ruth Bader"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump plans to announce on Saturday that Judge Amy Coney Barrett is his choice for the Supreme Court.",
+                    "copyright": "Samuel Corum for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/25/us/politics/00dc-court-hfo/00dc-court-hfo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/25/us/politics/00dc-court-hfo/merlin_164596695_efbc8d77-2376-4f8a-9f78-87fc6fc52918-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/25/us/politics/00dc-court-hfo/merlin_164596695_efbc8d77-2376-4f8a-9f78-87fc6fc52918-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e57391a4-9eb6-50aa-8fc5-2494227f2467",
+            "url": "https://www.nytimes.com/2020/09/18/us/ruth-bader-ginsburg-dead.html",
+            "id": 100000007283185,
+            "asset_id": 100000007283185,
+            "source": "New York Times",
+            "published_date": "2020-09-18",
+            "updated": "2020-09-24 18:51:34",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Deaths (Obituaries);United States Politics and Government;Women and Girls;Women's Rights;Ginsburg, Ruth Bader;Supreme Court (US)",
+            "column": null,
+            "byline": "By Linda Greenhouse",
+            "type": "Article",
+            "title": "Ruth Bader Ginsburg, Supreme Court\u2019s Feminist Icon, Is Dead at 87",
+            "abstract": "The second woman appointed to the Supreme Court, Justice Ginsburg\u2019s pointed and powerful dissenting opinions earned her late-life rock stardom.",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "United States Politics and Government",
+                "Women and Girls",
+                "Women's Rights"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Ginsburg, Ruth Bader"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Justice Ruth Bader Ginsburg was the leader of the court\u2019s four-member liberal wing.Credit...",
+                    "copyright": "Todd Heisler/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/19/reader-center/19ginsburg-promosub/19ginsburg-hp-sub-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/19/reader-center/19ginsburg-promosub/19ginsburg-hp-sub-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/19/reader-center/19ginsburg-promosub/19ginsburg-hp-sub-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/6d3f7d9c-b9d7-53fa-b6c4-90d3659ceb58",
+            "url": "https://www.nytimes.com/2020/09/18/us/elections/democrats-shatter-actblues-donation-records-after-ginsburgs-death.html",
+            "id": 100000007349902,
+            "asset_id": 100000007349902,
+            "source": "New York Times",
+            "published_date": "2020-09-18",
+            "updated": "2020-09-19 15:14:26",
+            "section": "U.S.",
+            "subsection": "Elections",
+            "nytdsection": "u.s.",
+            "adx_keywords": "",
+            "column": null,
+            "byline": "By Shane Goldmacher",
+            "type": "Article",
+            "title": "Democrats shatter ActBlue\u2019s donation records after Ginsburg\u2019s death.",
+            "abstract": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People gathered in front of a memorial for Justice Ruth Bader Ginsburg outside of the Supreme Court following news of her death on Friday.",
+                    "copyright": "Jason Andrew for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/18/us/politics/18elections-briefing-goldmacher-18-23-17/merlin_177256944_716daabf-85b1-4ee4-a01c-d21c3257abfd-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/18/us/politics/18elections-briefing-goldmacher-18-23-17/merlin_177256944_716daabf-85b1-4ee4-a01c-d21c3257abfd-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/18/us/politics/18elections-briefing-goldmacher-18-23-17/merlin_177256944_716daabf-85b1-4ee4-a01c-d21c3257abfd-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b5304d1e-c782-5019-9bdf-9347f8214059",
+            "url": "https://www.nytimes.com/2020/09/20/arts/design/climate-clock-metronome-nyc.html",
+            "id": 100000007348514,
+            "asset_id": 100000007348514,
+            "source": "New York Times",
+            "published_date": "2020-09-20",
+            "updated": "2020-09-22 07:40:30",
+            "section": "Arts",
+            "subsection": "Art & Design",
+            "nytdsection": "arts",
+            "adx_keywords": "Art;Global Warming;Greenhouse Gas Emissions;Watches and Clocks;Golan, Gan;Boyd, Andrew (Activist);Ginzel, Andrew;Jones, Kristin;Intergovernmental Panel on Climate Change;Related Cos;Manhattan (NYC)",
+            "column": null,
+            "byline": "By Colin Moynihan",
+            "type": "Article",
+            "title": "A New York Clock That Told Time Now Tells the Time Remaining",
+            "abstract": "Metronome\u2019s digital clock in Manhattan has been reprogrammed to illustrate a critical window for action to prevent the effects of global warming from becoming irreversible.",
+            "des_facet": [
+                "Art",
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Watches and Clocks"
+            ],
+            "org_facet": [
+                "Intergovernmental Panel on Climate Change",
+                "Related Cos"
+            ],
+            "per_facet": [
+                "Golan, Gan",
+                "Boyd, Andrew (Activist)",
+                "Ginzel, Andrew",
+                "Jones, Kristin"
+            ],
+            "geo_facet": [
+                "Manhattan (NYC)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Metronome and its Climate Clock, soon after it was activated.",
+                    "copyright": "Jeenah Moon for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/21/arts/20clock1/20clock1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/21/arts/20clock1/20clock1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/21/arts/20clock1/20clock1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/febb4cbe-f23f-53ae-aafe-2ac57d01c829",
+            "url": "https://www.nytimes.com/2020/09/25/world/asia/trump-united-states.html",
+            "id": 100000007361040,
+            "asset_id": 100000007361040,
+            "source": "New York Times",
+            "published_date": "2020-09-25",
+            "updated": "2020-09-26 09:56:22",
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "nytdsection": "world",
+            "adx_keywords": "United States International Relations;Presidential Election of 2020;Coronavirus (2019-nCoV);United States Politics and Government;Trump, Donald J;Belarus;Canada;Germany;Mexico;Myanmar",
+            "column": null,
+            "byline": "By Hannah Beech",
+            "type": "Article",
+            "title": "\u2018I Feel Sorry for Americans\u2019: A Baffled World Watches the U.S.",
+            "abstract": "From Myanmar to Canada, people are asking: How did a superpower allow itself to be felled by a virus? And why won\u2019t the president commit to a peaceful transition of power?",
+            "des_facet": [
+                "United States International Relations",
+                "Presidential Election of 2020",
+                "Coronavirus (2019-nCoV)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Belarus",
+                "Canada",
+                "Germany",
+                "Mexico",
+                "Myanmar"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Trump has refused to guarantee a peaceful transition of power, an unprecedented move by an American president.",
+                    "copyright": "Anna Moneymaker for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/25/world/25trump-worldview3/merlin_177550689_26aa5830-2060-4cfa-a4f7-cc4cd20ce385-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/25/world/25trump-worldview3/merlin_177550689_26aa5830-2060-4cfa-a4f7-cc4cd20ce385-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/25/world/25trump-worldview3/merlin_177550689_26aa5830-2060-4cfa-a4f7-cc4cd20ce385-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9f90e2fa-4a7a-5d87-94af-40b23502c91b",
+            "url": "https://www.nytimes.com/2016/10/02/opinion/sunday/ruth-bader-ginsburgs-advice-for-living.html",
+            "id": 100000004676804,
+            "asset_id": 100000004676804,
+            "source": "New York Times",
+            "published_date": "2016-10-01",
+            "updated": "2020-09-20 16:50:39",
+            "section": "Opinion",
+            "subsection": "Sunday Review",
+            "nytdsection": "opinion",
+            "adx_keywords": "Women's Rights;Work-Life Balance;Legal Profession;Supreme Court (US)",
+            "column": null,
+            "byline": "By Ruth Bader Ginsburg",
+            "type": "Article",
+            "title": "Ruth Bader Ginsburg\u2019s Advice for Living",
+            "abstract": "\u201cIt helps sometimes to be a little deaf\u201d is wise counsel for marriage or for the Supreme Court.",
+            "des_facet": [
+                "Women's Rights",
+                "Work-Life Balance",
+                "Legal Profession"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Supreme Court Justice Ruth Bader Ginsburg in her chambers on Friday, August 23, 2013.",
+                    "copyright": "Todd Heisler/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2016/10/02/sunday-review/02Ginsburg/02Ginsburg-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2016/10/02/sunday-review/02Ginsburg/02Ginsburg-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2016/10/02/sunday-review/02Ginsburg/02Ginsburg-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8cd93f4a-c24c-5241-a2d5-df13429ac193",
+            "url": "https://www.nytimes.com/2020/09/21/us/politics/trump-supreme-court.html",
+            "id": 100000007352968,
+            "asset_id": 100000007352968,
+            "source": "New York Times",
+            "published_date": "2020-09-21",
+            "updated": "2020-09-25 17:54:42",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Coronavirus (2019-nCoV);Appointments and Executive Changes;Trump, Donald J;Ginsburg, Ruth Bader;McConnell, Mitch;Supreme Court (US);Senate;Republican Party;Democratic Party",
+            "column": null,
+            "byline": "By Peter Baker and Nicholas Fandos",
+            "type": "Article",
+            "title": "Republican Senators Line Up to Back Trump on Court Fight",
+            "abstract": "Senator Lindsey Graham, the Judiciary Committee chairman, says Republicans have the votes to confirm the president\u2019s choice before the Nov. 3 election, though it will still be a challenge.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Coronavirus (2019-nCoV)",
+                "Appointments and Executive Changes"
+            ],
+            "org_facet": [
+                "Supreme Court (US)",
+                "Senate",
+                "Republican Party",
+                "Democratic Party"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Ginsburg, Ruth Bader",
+                "McConnell, Mitch"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A memorial for Justice Ruth Bader Ginsburg on Monday outside the Supreme Court. Senate Republicans have said they will move forward with a nomination.",
+                    "copyright": "Michael A. McCoy for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/20/us/20dc-rbg-1/20dc-rbg-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/20/us/20dc-rbg-1/merlin_177370185_8cef5106-547c-431d-9823-9a2d5a2b7154-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/20/us/20dc-rbg-1/merlin_177370185_8cef5106-547c-431d-9823-9a2d5a2b7154-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f8da7d9f-dec8-559e-ad96-bc30245a846a",
+            "url": "https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html",
+            "id": 100000007182686,
+            "asset_id": 100000007182686,
+            "source": "New York Times",
+            "published_date": "2020-06-18",
+            "updated": "2020-06-22 17:13:54",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Content Type: Service;Post-Traumatic Stress Disorder;Psychology and Psychologists;Anxiety and Stress",
+            "column": null,
+            "byline": "By Eilene Zimmerman",
+            "type": "Article",
+            "title": "What Makes Some People More Resilient Than Others",
+            "abstract": "The very earliest days of our lives, and our closest relationships, can offer clues about how we cope with adversity.",
+            "des_facet": [
+                "Content Type: Service",
+                "Post-Traumatic Stress Disorder",
+                "Psychology and Psychologists",
+                "Anxiety and Stress"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Monika Aichele",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3905da2c-8c0d-5d83-9160-4df48c3dce10",
+            "url": "https://www.nytimes.com/2018/09/29/opinion/sunday/christians-politics-belief.html",
+            "id": 100000006133915,
+            "asset_id": 100000006133915,
+            "source": "New York Times",
+            "published_date": "2018-09-29",
+            "updated": "2018-10-05 09:54:58",
+            "section": "Opinion",
+            "subsection": "Sunday Review",
+            "nytdsection": "opinion",
+            "adx_keywords": "Christians and Christianity;Politics and Government",
+            "column": null,
+            "byline": "By Timothy Keller",
+            "type": "Article",
+            "title": "How Do Christians Fit Into the Two-Party System? They Don\u2019t",
+            "abstract": "The historical Christian positions on social issues don\u2019t match up with contemporary political alignments.",
+            "des_facet": [
+                "Christians and Christianity",
+                "Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Singing hymns at Liberty University in Lynchburg, Va., before an appearance by Donald Trump in 2016. ",
+                    "copyright": "Chip Somodevilla/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2018/09/30/sunday-review/30keller2/30keller2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/09/30/sunday-review/30keller2/30keller2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2018/09/30/sunday-review/30keller2/30keller2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/2e2876b1-51c8-5ee1-9796-00948231535b",
+            "url": "https://www.nytimes.com/2020/09/23/us/politics/biden-inquiry-republicans-johnson.html",
+            "id": 100000007348042,
+            "asset_id": 100000007348042,
+            "source": "New York Times",
+            "published_date": "2020-09-23",
+            "updated": "2020-09-24 01:44:45",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Corruption (Institutional);Biden, Hunter;Biden, Joseph R Jr;Johnson, Ron (1955- );Burisma Holdings Ltd;Senate Committee on Homeland Security and Governmental Affairs",
+            "column": null,
+            "byline": "By Nicholas Fandos",
+            "type": "Article",
+            "title": "Republican Inquiry Finds No Evidence of Wrongdoing by Biden",
+            "abstract": "The report delivered on Wednesday appeared to be little more than a rehashing of unproven allegations that echoed a Russian disinformation campaign.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry",
+                "Corruption (Institutional)"
+            ],
+            "org_facet": [
+                "Burisma Holdings Ltd",
+                "Senate Committee on Homeland Security and Governmental Affairs"
+            ],
+            "per_facet": [
+                "Biden, Hunter",
+                "Biden, Joseph R Jr",
+                "Johnson, Ron (1955- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Ron Johnson, a Wisconsin Republican who led one of the committees investigating the Bidens, conceded in recent days that the report would contain no \u201cmassive smoking guns.\u201d",
+                    "copyright": "T.J. Kirkpatrick for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-investigate/18dc-investigate-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-investigate/18dc-investigate-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-investigate/18dc-investigate-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/2ed2cfe0-7ce0-52ca-abca-201db1aa7d28",
+            "url": "https://www.nytimes.com/2020/09/23/us/breonna-taylor-decision-verdict.html",
+            "id": 100000007353715,
+            "asset_id": 100000007353715,
+            "source": "New York Times",
+            "published_date": "2020-09-23",
+            "updated": "2020-09-24 13:28:17",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Black Lives Matter Movement;Police Brutality, Misconduct and Shootings;Hankison, Brett (Louisville, Ky, Police Officer);Mattingly, Jon (Louisville, Ky, Police Officer);Cosgrove, Myles (Louisville, Ky, Police Officer);Taylor, Breonna (1993-2020);Walker, Kenneth (March 13, 2020 Shooting);Police Department (Louisville, Ky);Louisville (Ky)",
+            "column": null,
+            "byline": "By The New York Times",
+            "type": "Article",
+            "title": "2 Officers Shot in Louisville Protests Over Breonna Taylor Charging Decision",
+            "abstract": "A grand jury didn\u2019t charge any officers with killing Ms. Taylor in her apartment, prompting protests nationwide. A former detective was indicted on three counts of \u201cwanton endangerment.\u201d",
+            "des_facet": [
+                "Black Lives Matter Movement",
+                "Police Brutality, Misconduct and Shootings"
+            ],
+            "org_facet": [
+                "Police Department (Louisville, Ky)"
+            ],
+            "per_facet": [
+                "Hankison, Brett (Louisville, Ky, Police Officer)",
+                "Mattingly, Jon (Louisville, Ky, Police Officer)",
+                "Cosgrove, Myles (Louisville, Ky, Police Officer)",
+                "Taylor, Breonna (1993-2020)",
+                "Walker, Kenneth (March 13, 2020 Shooting)"
+            ],
+            "geo_facet": [
+                "Louisville (Ky)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Breonna Taylor\u2019s mother, Tamika Palmer, left, after the city of Louisville, Ky., reached a $12 million settlement with her family last week.",
+                    "copyright": "Xavier Burrell for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/21/us/00breonna-charges-1/00breonna-charges-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/21/us/00breonna-charges-1/merlin_177092004_2cbb2dbf-78d8-4626-be00-d2ac10649e3c-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/21/us/00breonna-charges-1/merlin_177092004_2cbb2dbf-78d8-4626-be00-d2ac10649e3c-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/5d9bd3a7-2b52-5249-87ec-e78a9013de09",
+            "url": "https://www.nytimes.com/2020/07/29/science/stonehenge-archaeology-sarsens.html",
+            "id": 100000007262263,
+            "asset_id": 100000007262263,
+            "source": "New York Times",
+            "published_date": "2020-07-29",
+            "updated": "2020-08-04 10:28:29",
+            "section": "Science",
+            "subsection": "",
+            "nytdsection": "science",
+            "adx_keywords": "Stonehenge (England);Rock and Stone;Archaeology and Anthropology;Geology;your-feed-science;Research;Aubrey, John (1626-97);Nash, David J;Science Advances (Journal)",
+            "column": null,
+            "byline": "By Franz Lidz",
+            "type": "Article",
+            "title": "Whence Came Stonehenge\u2019s Stones? Now We Know",
+            "abstract": "Last year archaeologists pinpointed the origin of many of the ancient monument\u2019s massive stones. A new study identifies the source of the rest.",
+            "des_facet": [
+                "Stonehenge (England)",
+                "Rock and Stone",
+                "Archaeology and Anthropology",
+                "Geology",
+                "your-feed-science",
+                "Research"
+            ],
+            "org_facet": [
+                "Science Advances (Journal)"
+            ],
+            "per_facet": [
+                "Aubrey, John (1626-97)",
+                "Nash, David J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Stonehenge, roughly 5,000 years old, is made up of two kinds of stones, called bluestones and sarsens, the latter of which weigh 25 tons on average.",
+                    "copyright": "Finnbarr Webster/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/08/04/science/29SCI-STONEHENGE1/29SCI-STONEHENGE1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/08/04/science/29SCI-STONEHENGE1/29SCI-STONEHENGE1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/08/04/science/29SCI-STONEHENGE1/29SCI-STONEHENGE1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/43387b75-cd70-535c-a149-b9c7870cada4",
+            "url": "https://www.nytimes.com/2020/09/22/us/politics/house-short-term-bill.html",
+            "id": 100000007353689,
+            "asset_id": 100000007353689,
+            "source": "New York Times",
+            "published_date": "2020-09-22",
+            "updated": "2020-09-23 12:23:36",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "United States Politics and Government;Shutdowns (Institutional);Federal Budget (US);Coronavirus (2019-nCoV);Mnuchin, Steven T;Pelosi, Nancy;House of Representatives",
+            "column": null,
+            "byline": "By Emily Cochrane",
+            "type": "Article",
+            "title": "House Approves Short-Term Bill to Avoid a Shutdown",
+            "abstract": "The measure would stave off a government shutdown, providing funding until Dec. 11.",
+            "des_facet": [
+                "United States Politics and Government",
+                "Shutdowns (Institutional)",
+                "Federal Budget (US)",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "House of Representatives"
+            ],
+            "per_facet": [
+                "Mnuchin, Steven T",
+                "Pelosi, Nancy"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Speaker Nancy Pelosi on Tuesday at an event honoring the 200,000 Americans who have died of the coronavirus.",
+                    "copyright": "Anna Moneymaker for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/22/world/22dc-cong-sub/22dc-cong-sub-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/22/world/22dc-cong-sub/merlin_177416244_a7791e3f-71b7-41aa-bb3b-b610c90c435e-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/22/world/22dc-cong-sub/merlin_177416244_a7791e3f-71b7-41aa-bb3b-b610c90c435e-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/cda56685-17d6-5fda-9677-a92bdab11376",
+            "url": "https://www.nytimes.com/2020/09/21/opinion/ruth-bader-ginsburg-friendship.html",
+            "id": 100000007351510,
+            "asset_id": 100000007351510,
+            "source": "New York Times",
+            "published_date": "2020-09-21",
+            "updated": "2020-09-23 08:13:02",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Classical Music;United States Politics and Government;Bach, Johann Sebastian;Ginsburg, Ruth Bader;Supreme Court (US)",
+            "column": null,
+            "byline": "By Eric L. Motley",
+            "type": "Article",
+            "title": "My Unlikely Friendship With Ruth Bader Ginsburg",
+            "abstract": "I was a young, African-American Southerner, working in a Republican administration. But I loved Bach\u2019s Goldberg Variations, and that was enough for her.",
+            "des_facet": [
+                "Classical Music",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Bach, Johann Sebastian",
+                "Ginsburg, Ruth Bader"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The author and Ruth Bader Ginsburg in 2017.",
+                    "copyright": "Collection of Eric L. Motley",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/21/opinion/21Motley/21Motley-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/21/opinion/21Motley/21Motley-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/21/opinion/21Motley/21Motley-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/fc98210c-d84c-5527-a4b7-2a6868d2262c",
+            "url": "https://www.nytimes.com/2020/09/19/us/politics/supreme-court-ruth-bader-ginsburg-live.html",
+            "id": 100000007350048,
+            "asset_id": 100000007350048,
+            "source": "New York Times",
+            "published_date": "2020-09-19",
+            "updated": "2020-09-20 08:05:26",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Ginsburg, Ruth Bader;Supreme Court (US)",
+            "column": null,
+            "byline": "",
+            "type": "Article",
+            "title": "Mourners Gather at Vigils Across the Country in Ginsburg\u2019s Honor",
+            "abstract": "The death of Justice Ruth Bader Ginsburg, the second woman appointed to the Supreme Court, has injected new uncertainty into the presidential election and set off a torrent of political maneuvering.",
+            "des_facet": [],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Ginsburg, Ruth Bader"
+            ],
+            "geo_facet": [],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/95adb018-ce32-5512-b97e-2c01da9b2913",
+            "url": "https://www.nytimes.com/2020/09/18/us/rbg-accomplishments.html",
+            "id": 100000007349775,
+            "asset_id": 100000007349775,
+            "source": "New York Times",
+            "published_date": "2020-09-18",
+            "updated": "2020-09-19 09:50:33",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Women's Rights;Law and Legislation;United States Politics and Government;Ginsburg, Ruth Bader;Supreme Court (US)",
+            "column": null,
+            "byline": "By Adam Liptak",
+            "type": "Article",
+            "title": "Justice Ginsburg\u2019s Judicial Legacy of Striking Dissents",
+            "abstract": "She was part of the Supreme Court\u2019s 4-member liberal wing throughout her 27-year tenure and led it in her last decade.",
+            "des_facet": [
+                "Women's Rights",
+                "Law and Legislation",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Ginsburg, Ruth Bader"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Justice Ruth Bader Ginsburg takes the court oath from Chief Justice William H. Rehnquist, right, during a ceremony in the East Room of the White House in 1993.",
+                    "copyright": "Marcy Nighswander/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-legacy/18dc-legacy-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-legacy/18dc-legacy-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-legacy/18dc-legacy-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/49f8ffe3-730b-50b6-a01b-7d59c835a72f",
+            "url": "https://www.nytimes.com/2020/09/21/nyregion/donald-trump-taxes-cyrus-vance.html",
+            "id": 100000007346188,
+            "asset_id": 100000007346188,
+            "source": "New York Times",
+            "published_date": "2020-09-21",
+            "updated": "2020-09-24 17:16:38",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Trump Tax Returns;Tax Evasion;United States Politics and Government;Marrero, Victor;Trump, Donald J;Vance, Cyrus R Jr;Mazars USA;Supreme Court (US);Trump Organization",
+            "column": null,
+            "byline": "By Benjamin Weiser and William K. Rashbaum",
+            "type": "Article",
+            "title": "Trump Could Be Investigated for Tax Fraud, D.A. Says for First Time",
+            "abstract": "A new court filing from the Manhattan district attorney offered rare insight into the office\u2019s investigation of the president and his businesses.",
+            "des_facet": [
+                "Trump Tax Returns",
+                "Tax Evasion",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Mazars USA",
+                "Supreme Court (US)",
+                "Trump Organization"
+            ],
+            "per_facet": [
+                "Marrero, Victor",
+                "Trump, Donald J",
+                "Vance, Cyrus R Jr"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump\u2019s lawyers have called the subpoena from the Manhattan district attorney overly broad.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/23/nyregion/21nytrumptaxes/21nytrumptaxes-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/23/nyregion/21nytrumptaxes/21nytrumptaxes-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/23/nyregion/21nytrumptaxes/21nytrumptaxes-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/882717fc-fa1e-5d27-9ce4-e94f81302206",
+            "url": "https://www.nytimes.com/2020/09/23/sports/ncaafootball/college-football-death-jamain-stephens.html",
+            "id": 100000007333604,
+            "asset_id": 100000007333604,
+            "source": "New York Times",
+            "published_date": "2020-09-23",
+            "updated": "2020-09-25 09:02:45",
+            "section": "Sports",
+            "subsection": "College Football",
+            "nytdsection": "sports",
+            "adx_keywords": "Football (College);Colleges and Universities;Coronavirus (2019-nCoV);Deaths (Fatalities);Stephens, Jamain (d 2020);California University of Pennsylvania;California (Pa)",
+            "column": null,
+            "byline": "By Billy Witz",
+            "type": "Article",
+            "title": "College Football\u2019s Worst Fear in the Pandemic: The Death of a Player",
+            "abstract": "Jamain Stephens was known as a big man on campus. His death raised questions about how his university is handling the coronavirus and prompted athletes to think about their own risks.",
+            "des_facet": [
+                "Football (College)",
+                "Colleges and Universities",
+                "Coronavirus (2019-nCoV)",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [
+                "California University of Pennsylvania"
+            ],
+            "per_facet": [
+                "Stephens, Jamain (d 2020)"
+            ],
+            "geo_facet": [
+                "California (Pa)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jeff Swensen for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/25/sports/00virus-cfb-death1-print/00virus-cfb-death-13-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/25/sports/00virus-cfb-death1-print/00virus-cfb-death-13-mediumThreeByTwo210-v4.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/25/sports/00virus-cfb-death1-print/00virus-cfb-death-13-mediumThreeByTwo440-v4.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9d28e22e-868c-581b-a959-1db8cba81f7c",
+            "url": "https://www.nytimes.com/2020/09/19/us/politics/trump-list-of-supreme-court-nominees.html",
+            "id": 100000007350167,
+            "asset_id": 100000007350167,
+            "source": "New York Times",
+            "published_date": "2020-09-19",
+            "updated": "2020-09-25 17:50:20",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Appeals Courts (US);Appointments and Executive Changes;United States Politics and Government;Constitution (US);Barrett, Amy Coney;Barry, Maryanne Trump;Ginsburg, Ruth Bader;Gorsuch, Neil M;Hardiman, Thomas M (1965- );Kethledge, Raymond M (1966- );McConnell, Mitch;Pryor, William H Jr;Scalia, Antonin;Trump, Donald J;Justice Department;Supreme Court (US);Republican Party;Democratic Party;Senate Committee on the Judiciary",
+            "column": null,
+            "byline": "By Carl Hulse and Adam Liptak",
+            "type": "Article",
+            "title": "Leading Candidates to Fill Supreme Court Vacancy",
+            "abstract": "President Trump has vowed to fill the vacancy created by the death of Justice Ruth Bader Ginsburg \u201cwithout delay.\u201d Here is who might fill the seat.",
+            "des_facet": [
+                "Appeals Courts (US)",
+                "Appointments and Executive Changes",
+                "United States Politics and Government",
+                "Constitution (US)"
+            ],
+            "org_facet": [
+                "Justice Department",
+                "Supreme Court (US)",
+                "Republican Party",
+                "Democratic Party",
+                "Senate Committee on the Judiciary"
+            ],
+            "per_facet": [
+                "Barrett, Amy Coney",
+                "Barry, Maryanne Trump",
+                "Ginsburg, Ruth Bader",
+                "Gorsuch, Neil M",
+                "Hardiman, Thomas M (1965- )",
+                "Kethledge, Raymond M (1966- )",
+                "McConnell, Mitch",
+                "Pryor, William H Jr",
+                "Scalia, Antonin",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Franklin/South Bend Tribune, via AP",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/20/us/politics/19dc-thumbnails-barrett-p/19dc-thumbnails-barrett-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/20/us/politics/19dc-thumbnails-barrett-p/19dc-thumbnails-barrett-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/20/us/politics/19dc-thumbnails-barrett-p/19dc-thumbnails-barrett-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
